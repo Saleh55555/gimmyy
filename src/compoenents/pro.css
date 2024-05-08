@@ -1,0 +1,21 @@
+.btn{
+    background-color: rgba(85, 26, 100, 0.63) !important;
+    border: 2px solid rgba(85, 26, 100, 0.63) !important;
+    color: white !important;
+    margin: 10px !important;
+    
+}
+.btn:hover{
+    background-color: rgba(123, 180, 167, 0.856) !important;
+    border: 2px solid rgba(123, 180, 167, 0.856) !important;
+    transition-duration:0.5s ;
+}
+.card-img-top{
+
+    max-width: 70% !important;
+    max-height: 600px !important;
+    padding: auto 20px;
+}
+.card{
+    padding: 20px auto !important; 
+}
